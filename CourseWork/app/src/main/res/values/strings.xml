@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourseWork</string>
+
+    <string-array name="paramTypes">
+        <item>Число</item>
+        <item>Текст</item>
+    </string-array>
+</resources>
